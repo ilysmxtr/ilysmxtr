@@ -1,4 +1,158 @@
 <div align="center">
+  <svg width="100%" height="260" viewBox="0 0 1400 260" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Advanced cyber developer banner">
+    <defs>
+      <linearGradient id="bg" x1="0%" x2="100%" y1="0%" y2="0%">
+        <stop offset="0%" stop-color="#02070b"/>
+        <stop offset="35%" stop-color="#06141b"/>
+        <stop offset="100%" stop-color="#02050a"/>
+      </linearGradient>
+      <linearGradient id="neon" x1="0%" x2="100%" y1="0%" y2="0%">
+  <stop offset="0%" stop-color="#00f5d4"/>
+  <stop offset="30%" stop-color="#67e8f9"/>
+  <stop offset="65%" stop-color="#7dd3fc"/>
+        <stop offset="100%" stop-color="#00f5d4"/>
+      </linearGradient>
+      <linearGradient id="scan" x1="0%" x2="0%" y1="0%" y2="100%">
+  <stop offset="0%" stop-color="#00f5d4" stop-opacity="0"/>
+  <stop offset="50%" stop-color="#00f5d4" stop-opacity="0.7"/>
+  <stop offset="100%" stop-color="#00f5d4" stop-opacity="0"/>
+      <filter id="glow" x="-50%" y="-50%" width="200%" height="200%">
+        <feGaussianBlur stdDeviation="4" result="blur"/>
+        <feMerge>
+          <feMergeNode in="blur"/>
+          <feMergeNode in="SourceGraphic"/>
+        </feMerge>
+      </filter>
+    </defs>
+
+    <rect width="1400" height="260" fill="url(#bg)"/>
+    <g opacity="0.18" stroke="#00f5d4" stroke-width="1">
+      <path d="M0 30 L1400 30 M0 80 L1400 80 M0 130 L1400 130 M0 180 L1400 180 M0 230 L1400 230"/>
+      <path d="M80 0 L80 260 M170 0 L170 260 M260 0 L260 260 M350 0 L350 260 M440 0 L440 260 M530 0 L530 260 M620 0 L620 260 M710 0 L710 260 M800 0 L800 260 M890 0 L890 260 M980 0 L980 260 M1070 0 L1070 260 M1160 0 L1160 260 M1250 0 L1250 260 M1340 0 L1340 260"/>
+
+  </g>
+
+  <rect x="40" y="32" width="1320" height="196" rx="18" fill="none" stroke="url(#neon)" stroke-width="2.2" filter="url(#glow)"/>
+  <rect x="60" y="52" width="1280" height="156" rx="12" fill="none" stroke="#7dd3fc" stroke-opacity="0.28"/>
+    <g opacity="0.35">
+      <rect x="70" y="60" width="430" height="120" fill="none" stroke="#00f5d4" stroke-width="1.2"/>
+      <path d="M70 140 H500" stroke="#00f5d4" stroke-width="1.2"/>
+    <g>
+      <text x="95" y="116" fill="#00f5d4" font-size="26" font-family="monospace" font-weight="700">root@ilysmxtr:~$</text>
+      <text x="95" y="156" fill="#EAFBFF" font-size="42" font-family="monospace" font-weight="700">ILYES METIR</text>
+      <text x="95" y="188" fill="#7dd3fc" font-size="21" font-family="monospace">FULL-STACK ENGINEER // FLUTTER // BACKEND // PRODUCT</text>
+    </g>
+
+    <g>
+
+  <rect x="960" y="74" width="290" height="110" rx="14" fill="#0a1721" stroke="#00f5d4" stroke-opacity="0.7"/>
+  <text x="985" y="104" fill="#6ee7f9" font-size="16" font-family="monospace">STATUS</text>
+  <text x="985" y="140" fill="#00f5d4" font-size="30" font-family="monospace" font-weight="700">ONLINE</text>
+      <circle cx="1218" cy="101" r="8" fill="#00f5d4">
+        <animate attributeName="r" values="7;11;7" dur="1.4s" repeatCount="indefinite"/>
+        <animate attributeName="opacity" values="0.5;1;0.5" dur="1.4s" repeatCount="indefinite"/>
+    </g>
+
+    <rect x="0" y="220" width="1400" height="4" fill="url(#scan)">
+      <animate attributeName="opacity" values="0.2;1;0.2" dur="2.6s" repeatCount="indefinite"/>
+    <g opacity="0.8">
+      <path d="M0 220 L220 220" stroke="#00f5d4" stroke-width="2" stroke-dasharray="8 10">
+        <animate attributeName="stroke-dashoffset" values="0; -100" dur="4s" repeatCount="indefinite"/>
+      <path d="M1180 220 L1400 220" stroke="#00f5d4" stroke-width="2" stroke-dasharray="8 10">
+        <animate attributeName="stroke-dashoffset" values="0; -100" dur="4s" repeatCount="indefinite"/>
+      </path>
+    </g>
+
+  </svg>
+</div>
+
+<p align="center">
+  <a href="https://github.com/ilysmxtr?tab=repositories"><img src="https://img.shields.io/badge/REPOSITORIES-OPEN-00D1B2?style=for-the-badge&logo=github" alt="Repositories badge" /></a>
+  <a href="https://github.com/ilysmxtr?tab=followers"><img src="https://img.shields.io/github/followers/ilysmxtr?style=for-the-badge&logo=github&label=FOLLOWERS" alt="Followers badge" /></a>
+  <a href="https://github.com/ilysmxtr?tab=stars"><img src="https://img.shields.io/github/stars/ilysmxtr?style=for-the-badge&logo=github&label=STARS" alt="Stars badge" /></a>
+</p>
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-75971b3bbac0.gif" width="100%" height="6px" alt="divider" />
+</div>
+
+## $ whoami
+
+I build reliable software systems and digital products that connect engineering depth with user-focused product thinking. My work spans backend systems, mobile interfaces, and scalable application architecture.
+
+## $ pwd
+
+Engineering systems / product delivery / software architecture / product experience
+
+## $ cat /etc/stack
+
+```bash
+frontend  -> React, TypeScript, JavaScript, HTML, CSS
+mobile    -> Flutter, Dart, Android, iOS
+backend   -> Node.js, Express.js, REST APIs, authentication
+database  -> MongoDB, PostgreSQL, Firebase
+devops    -> GitHub, Git, Docker, CI/CD workflows
+design    -> Figma, UX thinking, product polish
+```
+
+## $ ls specialties
+
+- Product engineering and scalable app architecture
+- Backend systems and API integrations
+- Flutter and mobile-first product development
+- Clean code, maintainable implementation, and delivery discipline
+
+## $ git status
+
+```bash
+On branch main
+Current focus: building stable, modern, production-grade software
+Mission: turn ideas into reliable digital experiences
+```
+
+## Featured work
+
+- Trading and portfolio platform — business logic, flows, and product-focused UX in a finance-heavy application.
+- Monitoring and operations dashboard — analytical interfaces for real-world operational data and reporting workflows.
+
+## Interests
+
+- System design and scalable architecture
+- Product-driven engineering
+- API design and integration patterns
+- Modern mobile and web experiences
+- Continuous learning and execution
+
+## GitHub metrics
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ilysmxtr&show_icons=true&hide_border=true&theme=github_dark&rank_icon=github&title_color=00F5D4&icon_color=5EEAD4&text_color=E5F7FF" height="180" alt="GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ilysmxtr&layout=compact&hide_border=true&theme=github_dark&langs_count=8&title_color=00F5D4&text_color=E5F7FF" height="180" alt="Language stats" />
+</div>
+
+### 🐍 Contribution Snake
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ilysmxtr/ilysmxtr/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ilysmxtr/ilysmxtr/output/github-snake.svg" />
+    <img alt="GitHub contribution snake animation" src="https://raw.githubusercontent.com/ilysmxtr/ilysmxtr/output/github-snake.svg" />
+  </picture>
+</div>
+
+## $ cat /etc/links
+
+```text
+GitHub   -> https://github.com/ilysmxtr
+LinkedIn -> https://www.linkedin.com/
+Email    -> your.email@example.com
+```
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-75971b3bbac0.gif" width="100%" height="6px" alt="window divider" />
+</div>
+
+<div align="center">
   <svg width="100%" height="230" viewBox="0 0 1200 230" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Cyber developer banner">
     <defs>
       <linearGradient id="bg" x1="0%" x2="100%" y1="0%" y2="0%">
