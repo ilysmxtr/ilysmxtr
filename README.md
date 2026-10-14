@@ -1,58 +1,74 @@
 <div align="center">
 
 <a href="https://github.com/ilysmxtr">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=2600&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&height=70&lines=Ilyes+Metir;Full-Stack+Developer;Flutter+%7C+React+%7C+Node.js" alt="Ilyes Metir profile intro" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=25&duration=2600&pause=1000&color=00F5D4&center=true&vCenter=true&width=760&height=80&lines=Ilyes+Metir;Full-Stack+Developer;Flutter+%7C+React+%7C+Node.js;Building+products+with+precision" alt="Ilyes Metir profile intro" />
 </a>
 
 <p>
-  <a href="https://github.com/ilysmxtr?tab=repositories"><img src="https://img.shields.io/badge/Repositories-Open-0EA5E9?style=for-the-badge&logo=github" alt="Repositories badge" /></a>
-  <a href="https://github.com/ilysmxtr?tab=followers"><img src="https://img.shields.io/github/followers/ilysmxtr?style=for-the-badge&logo=github&label=Followers" alt="Followers badge" /></a>
+  <a href="https://github.com/ilysmxtr?tab=repositories"><img src="https://img.shields.io/badge/REPOSITORIES-OPEN-00D1B2?style=for-the-badge&logo=github" alt="Repositories badge" /></a>
+  <a href="https://github.com/ilysmxtr?tab=followers"><img src="https://img.shields.io/github/followers/ilysmxtr?style=for-the-badge&logo=github&label=FOLLOWERS" alt="Followers badge" /></a>
+  <a href="https://github.com/ilysmxtr?tab=stars"><img src="https://img.shields.io/github/stars/ilysmxtr?style=for-the-badge&logo=github&label=STARS" alt="Stars badge" /></a>
 </p>
 
 </div>
 
-## About
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-75971b3bbac0.gif" width="100%" height="4px" alt="divider" />
+</div>
 
-I am a Full-Stack Developer and Flutter engineer focused on building reliable, scalable, and user-friendly digital products. My work spans mobile applications, web platforms, backend systems, and product-level implementation from concept to deployment.
+## $ whoami
 
-I enjoy solving real technical problems with clean architecture, maintainable code, and practical product thinking. My goal is to build software that is not only functional, but also efficient, polished, and easy to scale.
+I am a software engineer focused on building scalable digital products, clean backend systems, and polished user experiences. My work combines product thinking, architecture, and implementation across mobile and web platforms.
 
-## Focus
+## $ pwd
 
-- Full-Stack development with Flutter, React, and Node.js
-- Backend APIs and business logic
-- Database design and application integration
-- Product-oriented engineering and clean implementation
+Full-Stack Developer / Flutter Engineer / Product-minded builder
 
-## Stack
+## Core stack
 
-- Frontend: React, JavaScript, TypeScript, HTML, CSS
-- Mobile: Flutter, Dart, Android, iOS
-- Backend: Node.js, Express.js, REST APIs
-- Data: MongoDB, PostgreSQL, Firebase
-- Tools: Git, GitHub, Docker, VS Code, Figma
+```bash
+frontend  -> React, TypeScript, JavaScript, HTML, CSS
+mobile     -> Flutter, Dart, Android, iOS
+backend    -> Node.js, Express.js, REST APIs
+data       -> MongoDB, PostgreSQL, Firebase
+tools      -> Git, GitHub, Docker, VS Code, Figma
+```
 
-## Selected Work
+## Focus areas
 
-- Financial Trading Platform — mobile application for market tracking, portfolio workflows, and financial data interactions.
-- Port of Oran Monitoring System — dashboard for environmental data exploration and operational analysis.
+- Application architecture and system design
+- API development and integration patterns
+- Product engineering with maintainable code
+- High-quality mobile and web experiences
 
-## Current Interests
+## Selected projects
 
-- Clean architecture and maintainable codebases
-- High-quality product engineering
-- API design and system scalability
-- Continuous learning and practical software delivery
+- Financial Trading Platform — trading and portfolio-focused mobile experience with real workflow logic.
+- Port of Oran Monitoring System — operational dashboard for environmental analysis and visual reporting.
 
-## GitHub Statistics
+## $ ls interests
+
+- Clean architecture
+- Scalable backend systems
+- API design and integration
+- UX-driven engineering
+- Continuous learning and delivery
+
+## GitHub metrics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ilysmxtr&show_icons=true&hide_border=true&theme=github_dark&rank_icon=github" height="180" alt="GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ilysmxtr&layout=compact&hide_border=true&theme=github_dark&langs_count=8" height="180" alt="Language stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ilysmxtr&show_icons=true&hide_border=true&theme=github_dark&rank_icon=github&title_color=00F5D4&icon_color=5EEAD4&text_color=E5F7FF" height="180" alt="GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ilysmxtr&layout=compact&hide_border=true&theme=github_dark&langs_count=8&title_color=00F5D4&text_color=E5F7FF" height="180" alt="Language stats" />
 </div>
 
 ## Connect
 
-- GitHub: [@ilysmxtr](https://github.com/ilysmxtr)
-- LinkedIn: [Profile](https://www.linkedin.com/)
-- Email: [Contact](mailto:your.email@example.com)
+```text
+GitHub   -> https://github.com/ilysmxtr
+LinkedIn -> https://www.linkedin.com/
+Email    -> your.email@example.com
+```
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-75971b3bbac0.gif" width="100%" height="4px" alt="window divider" />
+</div>
