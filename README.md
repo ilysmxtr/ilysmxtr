@@ -57,24 +57,7 @@ const ilyes = {
 
 </div>
 
-### <img src="https://img.shields.io/badge/03-CODE_IN_MOTION-8EB6FF?style=flat-square&labelColor=11172B" alt="03 / Code in motion" />
-
-<div align="center">
-
-<a href="https://github.com/ilysmxtr">
-  <img src="https://github-readme-stats.vercel.app/api?username=ilysmxtr&show_icons=true&hide_border=true&include_all_commits=true&rank_icon=github&bg_color=0B1020&title_color=B99AFF&text_color=C5D0EB&icon_color=5EEAD9" width="54%" alt="Public GitHub statistics" />
-</a>
-<a href="https://github.com/ilysmxtr">
-  <img src="https://streak-stats.demolab.com?user=ilysmxtr&hide_border=true&background=0B1020&ring=B99AFF&fire=62EBD9&currStreakLabel=62EBD9&sideNums=C5D0EB&sideLabels=9DAACC&dates=8190B3" width="44%" alt="GitHub contribution streak" />
-</a>
-
-<br />
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ilysmxtr&bg_color=0B1020&color=8EA3C8&line=A58BFA&point=5EEAD9&area=true&area_color=5EEAD9&hide_border=true&custom_title=Contribution%20Pulse" width="98%" alt="GitHub activity graph showing public contributions over time" />
-
-</div>
-
-### <img src="https://img.shields.io/badge/04-CONTRIBUTION_SNAKE-BF92FD?style=flat-square&labelColor=11172B" alt="04 / Contribution snake" />
+### <img src="https://img.shields.io/badge/03-CONTRIBUTION_SNAKE-BF92FD?style=flat-square&labelColor=11172B" alt="03 / Contribution snake" />
 
 <div align="center">
 
@@ -88,7 +71,7 @@ const ilyes = {
 
 </div>
 
-### <img src="https://img.shields.io/badge/05-LET'S_CONNECT-65E7D7?style=flat-square&labelColor=11172B" alt="05 / Let's connect" />
+### <img src="https://img.shields.io/badge/04-LET'S_CONNECT-65E7D7?style=flat-square&labelColor=11172B" alt="04 / Let's connect" />
 
 <div align="center">
 
