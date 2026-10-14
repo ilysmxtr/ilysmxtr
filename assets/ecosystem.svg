@@ -1,0 +1,55 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 310" width="1200" height="310" role="img" aria-label="The technologies I use, organized across mobile, frontend, backend and data">
+<defs>
+<linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#080C19"/><stop offset="1" stop-color="#0C1022"/></linearGradient>
+<linearGradient id="wire" x1="0" y1="0" x2="1" y2="0"><stop stop-color="#9B79EF"/><stop offset="1" stop-color="#58ECDC"/></linearGradient>
+<filter id="blur"><feGaussianBlur stdDeviation="16"/></filter>
+<pattern id="grid" width="30" height="30" patternUnits="userSpaceOnUse"><path d="M30 0H0V30" fill="none" stroke="#7188B0" stroke-opacity=".07"/></pattern>
+<style><![CDATA[
+@keyframes shine {from{stroke-dashoffset:60}to{stroke-dashoffset:0}}
+.flow{animation:shine 4.5s linear infinite}
+@media (prefers-reduced-motion:reduce){.flow{animation:none}}
+]]></style>
+</defs>
+<rect width="1200" height="310" rx="24" fill="url(#bg)"/>
+<rect width="1200" height="310" rx="24" fill="url(#grid)"/>
+<circle cx="620" cy="155" r="155" fill="#6F4DDB" opacity=".095" filter="url(#blur)"/>
+<text x="42" y="38" fill="#7B90B4" font-size="12" letter-spacing="3.0" font-family="Arial,sans-serif">ENGINEERING ECOSYSTEM</text>
+<text x="1155" y="38" fill="#7B90B4" font-size="12" text-anchor="end" font-family="monospace">CONNECTED CAPABILITIES // 04</text>
+<path d="M260 162H935" stroke="#283457" stroke-width="3"/>
+<path d="M260 162H935" stroke="url(#wire)" stroke-width="2" stroke-dasharray="6 13" class="flow" opacity=".9"/>
+
+<!-- panels -->
+<g>
+<rect x="35" y="73" width="268" height="174" rx="16" fill="#10182D" stroke="#B27AF5" stroke-opacity=".65"/>
+<rect x="35" y="73" width="268" height="4" rx="2" fill="#B27AF5"/>
+<circle cx="61" cy="105" r="7" fill="#B27AF5"/><text x="80" y="111" font-family="Arial,sans-serif" font-size="13" font-weight="700" fill="#CBB9FF" letter-spacing="2">MOBILE</text>
+<text x="58" y="164" font-family="Arial,sans-serif" font-size="31" font-weight="800" fill="#F0F2FF">Flutter</text>
+<text x="58" y="196" font-family="Arial,sans-serif" font-size="16" fill="#A7B3D1">Dart · Android · iOS</text>
+<text x="58" y="224" font-family="monospace" font-size="11" fill="#8C7EB5">01 / CROSS-PLATFORM</text>
+</g>
+<g>
+<rect x="322" y="73" width="268" height="174" rx="16" fill="#10182D" stroke="#5A9EFF" stroke-opacity=".65"/>
+<rect x="322" y="73" width="268" height="4" rx="2" fill="#5A9EFF"/>
+<circle cx="348" cy="105" r="7" fill="#5A9EFF"/><text x="367" y="111" font-family="Arial,sans-serif" font-size="13" font-weight="700" fill="#A9CEFF" letter-spacing="2">FRONTEND</text>
+<text x="345" y="164" font-family="Arial,sans-serif" font-size="31" font-weight="800" fill="#F0F2FF">React</text>
+<text x="345" y="196" font-family="Arial,sans-serif" font-size="16" fill="#A7B3D1">JavaScript · HTML · CSS</text>
+<text x="345" y="224" font-family="monospace" font-size="11" fill="#8596BE">02 / EXPERIENCES</text>
+</g>
+<g>
+<rect x="609" y="73" width="268" height="174" rx="16" fill="#10182D" stroke="#5EE0D6" stroke-opacity=".65"/>
+<rect x="609" y="73" width="268" height="4" rx="2" fill="#5EE0D6"/>
+<circle cx="635" cy="105" r="7" fill="#5EE0D6"/><text x="654" y="111" font-family="Arial,sans-serif" font-size="13" font-weight="700" fill="#A3F1EB" letter-spacing="2">BACKEND</text>
+<text x="632" y="164" font-family="Arial,sans-serif" font-size="31" font-weight="800" fill="#F0F2FF">Node.js</text>
+<text x="632" y="196" font-family="Arial,sans-serif" font-size="16" fill="#A7B3D1">Express · REST APIs</text>
+<text x="632" y="224" font-family="monospace" font-size="11" fill="#7BABA8">03 / SERVICES</text>
+</g>
+<g>
+<rect x="896" y="73" width="268" height="174" rx="16" fill="#10182D" stroke="#FF8FAE" stroke-opacity=".65"/>
+<rect x="896" y="73" width="268" height="4" rx="2" fill="#FF8FAE"/>
+<circle cx="922" cy="105" r="7" fill="#FF8FAE"/><text x="941" y="111" font-family="Arial,sans-serif" font-size="13" font-weight="700" fill="#FFB0C7" letter-spacing="2">DATABASES</text>
+<text x="919" y="164" font-family="Arial,sans-serif" font-size="30" font-weight="800" fill="#F0F2FF">PostgreSQL</text>
+<text x="919" y="196" font-family="Arial,sans-serif" font-size="16" fill="#A7B3D1">MongoDB · Data modeling</text>
+<text x="919" y="224" font-family="monospace" font-size="11" fill="#B28D9F">04 / DATA</text>
+</g>
+<text x="600" y="284" text-anchor="middle" font-family="monospace" font-size="13" fill="#8E9DBD" letter-spacing="2">DESIGN  →  DEVELOP  →  INTEGRATE  →  SHIP</text>
+</svg>
