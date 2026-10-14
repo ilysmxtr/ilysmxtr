@@ -1,7 +1,7 @@
 <div align="center">
 
 <a href="https://github.com/ilysmxtr">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=26&duration=2600&pause=1000&color=00F5D4&center=true&vCenter=true&width=780&height=90&lines=Ilyes+Metir;Full-Stack+Developer;Flutter+%7C+React+%7C+Node.js;Building+secure+systems+with+clarity" alt="Ilyes Metir profile intro" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=26&duration=2600&pause=1000&color=00F5D4&center=true&vCenter=true&width=820&height=100&lines=Ilyes+Metir;Full-Stack+Developer;Flutter+%7C+React+%7C+Node.js;Building+systems+that+scale" alt="Ilyes Metir profile intro" />
 </a>
 
 <p>
@@ -13,7 +13,7 @@
 </div>
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-75971b3bbac0.gif" width="100%" height="4px" alt="divider" />
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-75971b3bbac0.gif" width="100%" height="6px" alt="divider" />
 </div>
 
 ## $ whoami
@@ -79,7 +79,7 @@ Your skills are evolving daily
   </picture>
 </div>
 
-## Connect
+## $ cat /etc/links
 
 ```text
 GitHub   -> https://github.com/ilysmxtr
@@ -88,5 +88,5 @@ Email    -> your.email@example.com
 ```
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-75971b3bbac0.gif" width="100%" height="4px" alt="window divider" />
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-75971b3bbac0.gif" width="100%" height="6px" alt="window divider" />
 </div>
