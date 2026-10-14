@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="118" viewBox="0 0 1200 118" role="img" aria-label="Built with intention. Let's build something useful.">
+<defs><linearGradient id="f" x1="0" y1="0" x2="1" y2="0"><stop stop-color="#10162C"/><stop offset=".5" stop-color="#171435"/><stop offset="1" stop-color="#081E2A"/></linearGradient><linearGradient id="line" x1="0" y1="0" x2="1" y2="0"><stop stop-color="#7E68EF"/><stop offset=".5" stop-color="#C28FFF"/><stop offset="1" stop-color="#4AE9D5"/></linearGradient></defs>
+<rect width="1200" height="118" rx="18" fill="url(#f)"/>
+<path d="M0 1H1200" stroke="url(#line)" stroke-width="2"/>
+<path d="M38 92H1164" stroke="#455078" stroke-opacity=".55"/>
+<text x="43" y="51" font-family="Arial,Helvetica,sans-serif" fill="#ECF0FF" font-size="27" font-weight="800">LET'S BUILD SOMETHING <tspan fill="#74EEDC">USEFUL.</tspan></text>
+<text x="44" y="75" font-family="monospace" fill="#8799B9" font-size="13">Great products are engineered one thoughtful detail at a time.</text>
+<text x="1156" y="75" text-anchor="end" font-family="monospace" fill="#B0A2FF" font-size="13">// ILYES METIR</text>
+<text x="1156" y="105" text-anchor="end" font-family="monospace" fill="#647493" font-size="11">ORAN · DZ</text>
+</svg>
