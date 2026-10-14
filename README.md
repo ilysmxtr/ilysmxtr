@@ -1,7 +1,7 @@
 <div align="center">
 
 <a href="https://github.com/ilysmxtr">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=25&duration=2600&pause=1000&color=00F5D4&center=true&vCenter=true&width=760&height=80&lines=Ilyes+Metir;Full-Stack+Developer;Flutter+%7C+React+%7C+Node.js;Building+products+with+precision" alt="Ilyes Metir profile intro" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=26&duration=2600&pause=1000&color=00F5D4&center=true&vCenter=true&width=780&height=90&lines=Ilyes+Metir;Full-Stack+Developer;Flutter+%7C+React+%7C+Node.js;Building+secure+systems+with+clarity" alt="Ilyes Metir profile intro" />
 </a>
 
 <p>
@@ -18,7 +18,7 @@
 
 ## $ whoami
 
-I am a software engineer focused on building scalable digital products, clean backend systems, and polished user experiences. My work combines product thinking, architecture, and implementation across mobile and web platforms.
+I am a software engineer focused on building scalable digital products, secure backend systems, and polished user experiences. My work blends engineering discipline, product thinking, and clean implementation across mobile and web platforms.
 
 ## $ pwd
 
@@ -54,11 +54,29 @@ tools      -> Git, GitHub, Docker, VS Code, Figma
 - UX-driven engineering
 - Continuous learning and delivery
 
+## $ git status
+
+```bash
+On branch main
+Your code is production-ready
+Your skills are evolving daily
+```
+
 ## GitHub metrics
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ilysmxtr&show_icons=true&hide_border=true&theme=github_dark&rank_icon=github&title_color=00F5D4&icon_color=5EEAD4&text_color=E5F7FF" height="180" alt="GitHub stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ilysmxtr&layout=compact&hide_border=true&theme=github_dark&langs_count=8&title_color=00F5D4&text_color=E5F7FF" height="180" alt="Language stats" />
+</div>
+
+### 🐍 Contribution Snake
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ilysmxtr/ilysmxtr/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ilysmxtr/ilysmxtr/output/github-snake.svg" />
+    <img alt="GitHub contribution snake animation" src="https://raw.githubusercontent.com/ilysmxtr/ilysmxtr/output/github-snake.svg" />
+  </picture>
 </div>
 
 ## Connect
