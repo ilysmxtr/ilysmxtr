@@ -1,0 +1,68 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 390" width="1200" height="390" role="img" aria-labelledby="title desc">
+<title id="title">Ilyes Metir — Software Engineer</title>
+<desc id="desc">Premium dark neon cover. Full-Stack and Flutter Engineer based in Oran, Algeria. A developer terminal sits at the right.</desc>
+<defs>
+  <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#070A15"/><stop offset=".6" stop-color="#0E1126"/><stop offset="1" stop-color="#070A15"/></linearGradient>
+  <radialGradient id="halo"><stop stop-color="#6F4CDB" stop-opacity=".44"/><stop offset="1" stop-color="#6F4CDB" stop-opacity="0"/></radialGradient>
+  <radialGradient id="halo2"><stop stop-color="#00E2D7" stop-opacity=".29"/><stop offset="1" stop-color="#00E2D7" stop-opacity="0"/></radialGradient>
+  <linearGradient id="brand" x1="0" y1="0" x2="1" y2="0"><stop stop-color="#F4F6FF"/><stop offset=".42" stop-color="#B5A3FF"/><stop offset="1" stop-color="#58ECDA"/></linearGradient>
+  <linearGradient id="line" x1="0" x2="1"><stop stop-color="#7B58F7" stop-opacity="0"/><stop offset=".45" stop-color="#7B58F7"/><stop offset="1" stop-color="#4FE5DC" stop-opacity=".18"/></linearGradient>
+  <pattern id="grid" width="36" height="36" patternUnits="userSpaceOnUse"><path d="M36 0 H0 V36" fill="none" stroke="#B7C5FF" opacity=".065" stroke-width="1"/></pattern>
+  <filter id="glow" x="-60%" y="-60%" width="220%" height="220%"><feGaussianBlur stdDeviation="8"/></filter>
+  <clipPath id="rounded"><rect x="0" y="0" width="1200" height="390" rx="26"/></clipPath>
+  <clipPath id="term"><rect x="730" y="68" width="422" height="267" rx="14"/></clipPath>
+  <style><![CDATA[
+  .pulse {animation: pulse 2.2s ease-in-out infinite;transform-origin:1123px 94px}
+  .cursor {animation: blink 1s steps(2,end) infinite}
+  .run {animation: translate 9s linear infinite}
+  .beacon {animation: glimmer 3s ease-in-out infinite}
+  @keyframes pulse {0%,100%{opacity:.42}50%{opacity:1}}
+  @keyframes blink {0%,45%{opacity:1}50%,100%{opacity:0}}
+  @keyframes translate {0%{transform:translateX(-190px)}100%{transform:translateX(1360px)}}
+  @keyframes glimmer {0%,100%{opacity:.38}50%{opacity:1}}
+  @media (prefers-reduced-motion:reduce) { .pulse,.cursor,.run,.beacon {animation:none} }
+  ]]></style>
+</defs>
+<g clip-path="url(#rounded)">
+  <rect width="1200" height="390" fill="url(#bg)"/>
+  <rect width="1200" height="390" fill="url(#grid)"/>
+  <ellipse cx="220" cy="20" rx="460" ry="310" fill="url(#halo)"/>
+  <ellipse cx="1143" cy="306" rx="380" ry="320" fill="url(#halo2)"/>
+  <path d="M0 350H1200" stroke="#3F4E81" opacity=".45"/>
+  <path d="M0 2H1200" stroke="#A8BCFF" stroke-opacity=".3"/>
+  <path class="run" d="M-120 -20 L80 430" stroke="#75F6E6" opacity=".11" stroke-width="60" filter="url(#glow)"/>
+  <path d="M0 355 H1200" stroke="url(#line)" stroke-width="2"/>
+
+  <!-- left label -->
+  <rect x="46" y="37" width="214" height="32" rx="16" fill="#131E33" stroke="#527E99" stroke-opacity=".55"/>
+  <circle cx="66" cy="53" r="4.4" fill="#4BF2BE" class="beacon"/>
+  <text x="81" y="57" font-size="11.6" font-weight="700" font-family="Arial,Helvetica,sans-serif" fill="#BCE5E6" letter-spacing="1.6">AVAILABLE FOR REMOTE</text>
+  <text x="47" y="105" fill="#8D9FC7" font-size="16" font-family="Arial,Helvetica,sans-serif" letter-spacing="3">HELLO, WORLD. I'M</text>
+  <text x="42" y="188" font-size="80" font-weight="900" fill="#FBFCFF" font-family="Arial,Helvetica,sans-serif" letter-spacing="-3">ILYES</text>
+  <text x="44" y="261" font-size="76" font-weight="900" fill="url(#brand)" font-family="Arial,Helvetica,sans-serif" letter-spacing="-3">METIR<tspan fill="#5DEDD9">.</tspan></text>
+  <rect x="47" y="279" width="450" height="2" fill="url(#line)"/>
+  <text x="46" y="309" fill="#D4D9F2" font-size="18" font-weight="700" font-family="Arial,Helvetica,sans-serif">FULL-STACK  /  FLUTTER DEVELOPER</text>
+  <text x="47" y="335" fill="#8594B9" font-size="13.5" font-family="Arial,Helvetica,sans-serif" letter-spacing=".7">CREATIVE ENGINEERING. PRODUCTION MINDSET.</text>
+
+  <!-- right / vector terminal -->
+  <rect x="724" y="62" width="434" height="279" rx="18" fill="#060A16" stroke="#7791BC" stroke-opacity=".22" stroke-width="1.5"/>
+  <rect x="730" y="68" width="422" height="267" rx="14" fill="#0B1123" stroke="#61729C" stroke-opacity=".25"/>
+  <path d="M744 110H1139" stroke="#607394" stroke-opacity=".35"/>
+  <circle cx="753" cy="89" r="5" fill="#FF647A"/>
+  <circle cx="773" cy="89" r="5" fill="#FFBB62"/>
+  <circle cx="793" cy="89" r="5" fill="#52EFB9"/>
+  <text x="898" y="94" fill="#7B87A6" font-family="monospace" font-size="12">~/developer/profile.ts</text>
+  <g clip-path="url(#term)" font-family="monospace">
+    <text x="756" y="141" font-size="15" fill="#63E9D9">➜ <tspan fill="#D2D7EC">whoami</tspan></text>
+    <text x="756" y="169" font-size="14" fill="#93A4C8">name: <tspan fill="#EAEFFE">"Ilyes Metir"</tspan></text>
+    <text x="756" y="193" font-size="14" fill="#93A4C8">location: <tspan fill="#B99AFF">"Oran, Algeria"</tspan></text>
+    <text x="756" y="217" font-size="14" fill="#93A4C8">experience: <tspan fill="#B99AFF">"4 years"</tspan></text>
+    <text x="756" y="241" font-size="14" fill="#93A4C8">focus: <tspan fill="#50E7D7">["mobile", "web"]</tspan></text>
+    <text x="756" y="282" font-size="14" fill="#63E9D9">➜ <tspan fill="#D3DCF6">build --ship --repeat</tspan></text>
+    <rect class="cursor" x="1015" y="269" width="9" height="17" fill="#7FF6E2"/>
+  </g>
+  <g class="pulse"><circle cx="1120" cy="122" r="3.5" fill="#61E6D8"/><circle cx="1120" cy="122" r="10" stroke="#61E6D8" stroke-opacity=".35" fill="none"/></g>
+  <text x="46" y="377" fill="#7585A8" font-size="11.3" font-family="monospace" letter-spacing="1.8">ORAN, ALGERIA  •  MOBILE + WEB  •  EST. BY CURIOSITY</text>
+  <text x="1137" y="377" fill="#697694" font-size="11.5" text-anchor="end" font-family="monospace">01 / ∞</text>
+</g>
+</svg>
